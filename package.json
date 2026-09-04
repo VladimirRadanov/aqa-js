@@ -1,0 +1,24 @@
+{
+  "name": "aqa-js",
+  "version": "1.0.0",
+  "description": "Java Script",
+  "homepage": "https://github.com/VladimirRadanov/aqa-js#readme",
+  "bugs": {
+    "url": "https://github.com/VladimirRadanov/aqa-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladimirRadanov/aqa-js.git"
+  },
+  "license": "ISC",
+  "author": "Vladimir Radanov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^6.0.0"
+  },
+  "type": "module"
+}
